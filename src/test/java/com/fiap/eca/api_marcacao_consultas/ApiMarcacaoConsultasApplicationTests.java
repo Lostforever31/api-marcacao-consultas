@@ -1,4 +1,4 @@
-package com.fiap.rcb.api_marcacao_consultas;
+package com.fiap.eca.api_marcacao_consultas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
